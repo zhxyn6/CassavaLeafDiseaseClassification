@@ -5,6 +5,6 @@ This project demonstrates the potential of data science to assist in the early d
 ## Results
 ![Image](https://user-images.githubusercontent.com/114776583/229377829-166c9eee-eee6-4d29-8a19-f5399d8fb15e.png)
 
-The loss tends to convergence after 3th epoch.
+The loss tends to converge after 3th epoch.
 
 ![image2](https://user-images.githubusercontent.com/114776583/229377831-52a77bee-4594-4255-a149-579ba13c3ba3.png)
